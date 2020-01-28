@@ -34,7 +34,7 @@ rm(list=c("package_name", "package_names"))
 
 options(show.signif.stars = FALSE)  
 ```
-
+ 
 
 How are the best guards in the NBA scoring in todays NBA?
 
